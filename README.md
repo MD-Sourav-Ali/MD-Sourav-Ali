@@ -1,4 +1,4 @@
-![I am md-sourav-ali](https://github.com/MD-Sourav-Ali/MD-Sourav-Ali/blob/main/Code.png?raw=true)
+![I am Mdsouravali](https://github.com/Mdsouravali/Mdsouravali/blob/main/Code.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm MD Sourav Ali</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=MD-Sourav-ali&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=Mdsouravali&color=red)
 
 Skills:Java / BOOTSTRAP / REACT / HTML / CSS
 
@@ -16,7 +16,7 @@ Skills:Java / BOOTSTRAP / REACT / HTML / CSS
 
 - 🌱 I’m currently learning Golang, Java
 
-- 👨‍💻 All of my projects are available at [https://github.com/md-sourav-ali](https://github.com/md-sourav-ali)
+- 👨‍💻 All of my projects are available at [https://github.com/Mdsouravali](https://github.com/Mdsouravali)
 
 - 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
 
@@ -24,12 +24,12 @@ Skills:Java / BOOTSTRAP / REACT / HTML / CSS
 
 - 📫 How to reach me **programmerharun@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/md-sourav-ali](https://lnk.bio/md-sourav-ali)
+- 📄 All About Me:[https://lnk.bio/Mdsouravali](https://lnk.bio/Mdsouravali)
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://fb.com/Mdsouravalih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdsouravalih" height="30" width="40" /></a>
+<a href="https://fb.com/Mdsouravalih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mdsouravalih" height="30" width="40" /></a>
 </p>
 
 ## Use To Code
@@ -59,13 +59,13 @@ Skills:Java / BOOTSTRAP / REACT / HTML / CSS
 
 ## Best Repo -
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=MD-Sourav-ali&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MD-Sourav-ali/Java-Project)
-[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=MD-Sourav-ali&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MD-Sourav-ali/100_plus_C_Problems)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=MD-Sourav-ali&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MD-Sourav-ali/front_end_projects)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=MD-Sourav-ali&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/MD-Sourav-ali/weblitical)
+[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=Mdsouravali&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mdsouravali/Java-Project)
+[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=Mdsouravali&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mdsouravali/100_plus_C_Problems)
+[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=Mdsouravali&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mdsouravali/front_end_projects)
+[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=Mdsouravali&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mdsouravali/weblitical)
 
 <p align="left">
-  <a href="https://github.com/MD-Sourav-ali?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/Mdsouravali?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -75,18 +75,18 @@ Skills:Java / BOOTSTRAP / REACT / HTML / CSS
 ## Github Stats -
 
 <p align="center">
-  <a href="https://github.com/MD-Sourav-ali">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MD-Sourav-ali&theme=radical" alt="Harun's GitHub Contribution"/>
+  <a href="https://github.com/Mdsouravali">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mdsouravali&theme=radical" alt="Harun's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/MD-Sourav-ali"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MD-Sourav-ali&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/MD-Sourav-ali"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MD-Sourav-ali&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Mdsouravali"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Mdsouravali&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Mdsouravali"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mdsouravali&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MD-Sourav-ali&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mdsouravali&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
