@@ -1,4 +1,4 @@
-![I am md-sourav-ali](https://github.com/md-sourav-ali/md-sourav-ali/blob/main/code.png)
+![I am md-sourav-ali](https://github.com/MD-Sourav-Ali/MD-Sourav-Ali/blob/main/Code.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm MD Sourav Ali</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
